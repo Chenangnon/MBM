@@ -1,2 +1,2 @@
 # mrbglm
-Multiplicative Risk Binomial Modeling in R
+Multistage Binomial Modeling in R

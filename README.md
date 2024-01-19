@@ -22,4 +22,4 @@ Then, run the following line with ``~`` replaced by the path to the directory wh
 install.packages("~/mrbglm_0.1.2.tar.gz", repos = NULL, type = "source")
 ```
 
-# Example 1
+## Example 1

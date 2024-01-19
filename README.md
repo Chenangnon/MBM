@@ -21,3 +21,5 @@ Then, run the following line with ``~`` replaced by the path to the directory wh
 # Install the required libraries BSEIR and wavefinder
 install.packages("~/mrbglm_0.1.2.tar.gz", repos = NULL, type = "source")
 ```
+
+# Example 1

@@ -19,7 +19,7 @@ To install ``mrbglm`` on your computer, first download the files ``mrbglm_0.1.2.
 Then, run the following line with ``~`` replaced by the path to the directory where ``mrbglm_0.1.2.tar.gz``was saved on your computer.
 
 ``` r
-# Install the librariy mrbglm
+# Install the library mrbglm
 install.packages("~/mrbglm_0.1.2.tar.gz", repos = NULL, type = "source")
 ```
 

@@ -12,6 +12,7 @@ if(!require("devtools")) install.packages("devtools")
 
 # Install dependencies for wavefinder
 install.packages(c('Rdpack', 'grDevices', 'graphics', 'lattice', 'matrixcalc', 'optimx', 'numDeriv', 'boot', 'parallel'), dependencies = TRUE)
+```
 
 To install ``mrbglm`` on your computer, first download the files ``mrbglm_0.1.2.tar.gz`` from the repository.
 

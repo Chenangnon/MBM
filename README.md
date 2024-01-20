@@ -3,7 +3,7 @@ Multistage Binomial Modeling in R
 
 This repository provides supplementary material to the paper ``A multistage binomial model with measurement errors: application to protein viability prediction``
 
-The zip file ``mrbglm_0.1.2.tar.gz`` is a source R package (``mrbglm``) for fitting Multistage Binomial Models (MRB) required to reproduce the results in the paper.
+The zip file ``mrbglm_0.1.2.tar.gz`` is a source R package (``mrbglm``) for fitting Multiplicative Risk Binomial (MRB), a special case of Models Multistage Binomial Models when each stage has only one predictor. The package is required to reproduce the results in the indexed paper.
 This package requires R (>= 4.0.0) and depend on a few other R packages. To install all dependencies:
 
 ``` r

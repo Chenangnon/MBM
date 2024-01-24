@@ -1,4 +1,4 @@
-# mrbglm
+# MBM
 Multistage Binomial Modeling in R
 
 This repository provides supplementary material to the paper ``A multistage binomial model with measurement errors: application to protein viability prediction``
